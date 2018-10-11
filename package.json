@@ -30,7 +30,7 @@
     "build/lib"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.1.2",
     "appium-support": "^2.0.10",
     "shell-quote": "^1.4.3",
     "source-map-support": "^0.5.3",
